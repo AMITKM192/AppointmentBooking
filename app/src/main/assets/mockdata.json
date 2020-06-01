@@ -1,0 +1,457 @@
+[
+  {
+    "id": "1",
+    "title": "Heart Attacks",
+    "short_description": "A heart attack is a medical emergency. A heart attack usually occurs when a blood clot blocks blood flow to the heart. Without blood, tissue loses oxygen and dies.",
+    "long_description": "A heart attack is a medical emergency. A heart attack usually occurs when a blood clot blocks blood flow to the heart. Without blood, tissue loses oxygen and dies.Symptoms include tightness or pain in the chest, neck, back or arms, as well as fatigue, light headedness, abnormal heartbeat and anxiety. Women are more likely to have atypical symptoms than men. Treatment ranges from lifestyle changes and cardiac rehabilitation to medication, stents and bypass surgery.",
+    "symptoms": [
+      {
+        "id": "211",
+        "symptom": "Chest discomfort"
+      },
+      {
+        "id": "212",
+        "symptom": "Shortness of breath"
+      },
+      {
+        "id": "213",
+        "symptom": "Discomfort in other parts of the body"
+      }
+    ],
+    "solutions": [
+      {
+        "id": "214",
+        "solution": "Angiogram"
+      },
+      {
+        "id": "215",
+        "solution": "Fibrinolysis"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "21",
+        "title": "Johnson Hospital",
+        "description": "We are a tertiary-care, referral and teaching hospital that provides ethical and professional clinical care and treatment across all specialities ably supported by diagnostics services that includes laboratory-based, imaging and interventional facilities that remains affordable and accessible.",
+        "price": 200.00,
+        "recommend": true,
+        "options": [
+          {
+            "title": "Angiogram",
+            "description": "Primary percutaneous coronary intervention (PCI) is the treatment of choice for STEMI if it can be performed in a timely manner, ideally within 90–120 minutes of contact with a medical provider.",
+            "price": 110
+          },
+          {
+            "title": "Fibrinolysis",
+            "description": "If PCI cannot be performed within 90 to 120 minutes in STEMI then fibrinolysis, preferably within 30 minutes of arrival to hospital, is recommended.",
+            "price": 90
+          },
+          {
+            "title": "Anticoagulation",
+            "description": "Aspirin, an antiplatelet anticoagulant, is given as a loading dose with the goal of reducing the clot size and reduce further clotting in the affected artery",
+            "price": 1300
+          },
+          {
+            "title": "Rehabilation",
+            "description": "Cardiac rehabilitation benefits many who have experienced myocardial infarction, even if there has been substantial heart damage and resultant left ventricular failure.",
+            "price": 1300
+          }
+        ]
+      },
+      {
+        "id": "22",
+        "title": "Williams Hospital",
+        "description": "General Williams Masonic Poly Clinic & Laboratory in Janpath is a part of the integrated network of pathology labs. This venture embarked on its journey with a longstanding commitment and a vision to make a wide range of specialized testing services available to the common man. In the sector, this centre has been consistent towards its commitment to excellence and innovation in whatever they do.",
+        "price": 300.00,
+        "recommend": false,
+        "options": [
+          {
+            "title": "Angiogram",
+            "description": "Primary percutaneous coronary intervention (PCI) is the treatment of choice for STEMI if it can be performed in a timely manner, ideally within 90–120 minutes of contact with a medical provider.",
+            "price": 110
+          },
+          {
+            "title": "Fibrinolysis",
+            "description": "If PCI cannot be performed within 90 to 120 minutes in STEMI then fibrinolysis, preferably within 30 minutes of arrival to hospital, is recommended.",
+            "price": 90
+          },
+          {
+            "title": "Anticoagulation",
+            "description": "Aspirin, an antiplatelet anticoagulant, is given as a loading dose with the goal of reducing the clot size and reduce further clotting in the affected artery",
+            "price": 1300
+          },
+          {
+            "title": "Rehabilation",
+            "description": "Cardiac rehabilitation benefits many who have experienced myocardial infarction, even if there has been substantial heart damage and resultant left ventricular failure.",
+            "price": 1300
+          }
+        ]
+      },
+      {
+        "id": "23",
+        "title": "Anderson Hospital",
+        "description": "Anderson Hospital has been serving the communities of Madison County for 40 years, and continues its commitment to providing residents with the highest-quality of advanced medical care. Our 154-bed inpatient and outpatient acute care facility offers patients cutting-edge medical diagnostics that are not often found in a local community setting",
+        "price": 500.00,
+        "recommend": false,
+        "options": [
+          {
+            "title": "Angiogram",
+            "description": "Primary percutaneous coronary intervention (PCI) is the treatment of choice for STEMI if it can be performed in a timely manner, ideally within 90–120 minutes of contact with a medical provider.",
+            "price": 110
+          },
+          {
+            "title": "Fibrinolysis",
+            "description": "If PCI cannot be performed within 90 to 120 minutes in STEMI then fibrinolysis, preferably within 30 minutes of arrival to hospital, is recommended.",
+            "price": 90
+          },
+          {
+            "title": "Anticoagulation",
+            "description": "Aspirin, an antiplatelet anticoagulant, is given as a loading dose with the goal of reducing the clot size and reduce further clotting in the affected artery",
+            "price": 1300
+          },
+          {
+            "title": "Rehabilation",
+            "description": "Cardiac rehabilitation benefits many who have experienced myocardial infarction, even if there has been substantial heart damage and resultant left ventricular failure.",
+            "price": 1300
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Cancer",
+    "short_description": "Cancer is the uncontrolled growth of abnormal cells anywhere in a body. These abnormal cells are termed cancer cells, malignant cells, or tumor cells. These cells can infiltrate normal body tissues.",
+    "long_description": "Cancer is the uncontrolled growth of abnormal cells anywhere in a body. These abnormal cells are termed cancer cells, malignant cells, or tumor cells. These cells can infiltrate normal body tissues. Many cancers and the abnormal cells that compose the cancer tissue are further identified by the name of the tissue that the abnormal cells originated from (for example, breast cancer, lung cancer, colorectal cancer). Cancer is not confined to humans; animals and other living organisms can get cancer. Below is a schematic that shows normal cell division and how when a cell is damaged or altered without repair to its system, the cell usually dies",
+    "symptoms": [
+      {
+        "id": "111",
+        "symptom": "Blood in urine"
+      },
+      {
+        "id": "112",
+        "symptom": "Hoarseness"
+      },
+      {
+        "id": "113",
+        "symptom": "indigestion or difficulty swallowing"
+      }
+    ],
+    "solutions": [
+      {
+        "id": "114",
+        "solution": "Radiotheraphy"
+      },
+      {
+        "id": "115",
+        "solution": "Chemotheraphy"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "11",
+        "title": "Johnson Hospital",
+        "description": "We are a tertiary-care, referral and teaching hospital that provides ethical and professional clinical care and treatment across all specialities ably supported by diagnostics services that includes laboratory-based, imaging and interventional facilities that remains affordable and accessible.",
+        "price": 200.00,
+        "recommend": true,
+        "options": [
+          {
+            "title": "Radiotheraphy",
+            "description": "Radiotheraphy includes Radiation therapy (also called radiotherapy, X-ray therapy, or irradiation) is the use of ionizing radiation to kill cancer cells and shrink tumors. Radiation therapy can be administered externally via external beam radiotherapy (EBRT) or internally via brachytherapy",
+            "price": 150
+          },
+          {
+            "title": "Chemotheraphy",
+            "description": "Chemotheraphy includes Chemotherapy is the treatment of cancer with drugs (anticancer drugs) that can destroy cancer cells. In current usage, the term chemotherapy usually refers to cytotoxic drugs which affect rapidly dividing cells in general, in contrast with targeted therapy",
+            "price": 120
+          },
+          {
+            "title": "Immunotheraphy",
+            "description": "Cancer immunotherapy refers to a diverse set of therapeutic strategies designed to induce the patient's own immune system to fight the tumor. Contemporary methods for generating an immune response against tumours include intravesical BCG immunotherapy for superficial bladder cancer, and use of interferons and other cytokines to induce an immune response in renal cell carcinoma and melanoma patients",
+            "price": 130
+          },
+          {
+            "title": "Hormonal theraphy",
+            "description": "Hormonal theraphy includes the growth of some cancers can be inhibited by providing or blocking certain hormones. Common examples of hormone-sensitive tumors include certain types of breast and prostate cancers",
+            "price": 130
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "title": "Williams Hospital",
+        "description": "General Williams Masonic Poly Clinic & Laboratory in Janpath is a part of the integrated network of pathology labs. This venture embarked on its journey with a longstanding commitment and a vision to make a wide range of specialized testing services available to the common man. In the sector, this centre has been consistent towards its commitment to excellence and innovation in whatever they do.",
+        "price": 200.00,
+        "recommend": false,
+        "options": [
+          {
+            "title": "Radiotheraphy",
+            "description": "Radiotheraphy includes Radiation therapy (also called radiotherapy, X-ray therapy, or irradiation) is the use of ionizing radiation to kill cancer cells and shrink tumors. Radiation therapy can be administered externally via external beam radiotherapy (EBRT) or internally via brachytherapy",
+            "price": 150
+          },
+          {
+            "title": "Chemotheraphy",
+            "description": "Chemotheraphy includes Chemotherapy is the treatment of cancer with drugs (anticancer drugs) that can destroy cancer cells. In current usage, the term chemotherapy usually refers to cytotoxic drugs which affect rapidly dividing cells in general, in contrast with targeted therapy",
+            "price": 120
+          },
+          {
+            "title": "Immunotheraphy",
+            "description": "Cancer immunotherapy refers to a diverse set of therapeutic strategies designed to induce the patient's own immune system to fight the tumor. Contemporary methods for generating an immune response against tumours include intravesical BCG immunotherapy for superficial bladder cancer, and use of interferons and other cytokines to induce an immune response in renal cell carcinoma and melanoma patients",
+            "price": 130
+          },
+          {
+            "title": "Hormonal theraphy",
+            "description": "Hormonal theraphy includes the growth of some cancers can be inhibited by providing or blocking certain hormones. Common examples of hormone-sensitive tumors include certain types of breast and prostate cancers",
+            "price": 130
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "title": "Anderson Hospital",
+        "description": "Anderson Hospital has been serving the communities of Madison County for 40 years, and continues its commitment to providing residents with the highest-quality of advanced medical care. Our 154-bed inpatient and outpatient acute care facility offers patients cutting-edge medical diagnostics that are not often found in a local community setting",
+        "price": 200.00,
+        "recommend": false,
+        "options": [
+          {
+            "title": "Radiotheraphy",
+            "description": "Radiotheraphy includes Radiation therapy (also called radiotherapy, X-ray therapy, or irradiation) is the use of ionizing radiation to kill cancer cells and shrink tumors. Radiation therapy can be administered externally via external beam radiotherapy (EBRT) or internally via brachytherapy",
+            "price": 150
+          },
+          {
+            "title": "Chemotheraphy",
+            "description": "Chemotheraphy includes Chemotherapy is the treatment of cancer with drugs (anticancer drugs) that can destroy cancer cells. In current usage, the term chemotherapy usually refers to cytotoxic drugs which affect rapidly dividing cells in general, in contrast with targeted therapy",
+            "price": 120
+          },
+          {
+            "title": "Immunotheraphy",
+            "description": "Cancer immunotherapy refers to a diverse set of therapeutic strategies designed to induce the patient's own immune system to fight the tumor. Contemporary methods for generating an immune response against tumours include intravesical BCG immunotherapy for superficial bladder cancer, and use of interferons and other cytokines to induce an immune response in renal cell carcinoma and melanoma patients",
+            "price": 130
+          },
+          {
+            "title": "Hormonal theraphy",
+            "description": "Hormonal theraphy includes the growth of some cancers can be inhibited by providing or blocking certain hormones. Common examples of hormone-sensitive tumors include certain types of breast and prostate cancers",
+            "price": 130
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Stroke",
+    "short_description": "A stroke is a medical condition in which poor blood flow to the brain results in cell death. There are two main types of stroke: ischemic, due to lack of blood flow, and hemorrhagic, due to bleeding.",
+    "long_description": "A stroke is a medical emergency.Symptoms of stroke include trouble walking, speaking and understanding, as well as paralysis or numbness of the face, arm or leg.Early treatment with medication like tPA (clot buster) can minimise brain damage. Other treatments focus on limiting complications and preventing additional strokes.",
+    "symptoms": [
+      {
+        "id": "311",
+        "symptom": "Sudden confusion, trouble speaking or understanding"
+      },
+      {
+        "id": "312",
+        "symptom": "Sudden numbness or weakenss of the face, arm or leg"
+      },
+      {
+        "id": "313",
+        "symptom": "Blurred vision in one or both eyes"
+      }
+    ],
+    "solutions": [
+      {
+        "id": "314",
+        "solution": "Stroke unit"
+      },
+      {
+        "id": "315",
+        "solution": "Brain ischemia stroke"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "31",
+        "title": "Johnson Hospital",
+        "description": "We are a tertiary-care, referral and teaching hospital that provides ethical and professional clinical care and treatment across all specialities ably supported by diagnostics services that includes laboratory-based, imaging and interventional facilities that remains affordable and accessible.",
+        "price": 700.00,
+        "recommend": true,
+        "options": [
+          {
+            "title": "Stroke Unit",
+            "description": "Ideally, people who have had a stroke are admitted to a stroke unit, a ward or dedicated area in a hospital staffed by nurses and therapists with experience in stroke treatment. It has been shown that people admitted to a stroke unit have a higher chance of surviving than those admitted elsewhere in hospital",
+            "price": 250
+          },
+          {
+            "title": "Brain ischemia stroke",
+            "description": "Aspirin reduces the overall risk of recurrence by 13% with greater benefit early on. Definitive therapy within the first few hours is aimed at removing the blockage by breaking the clot down (thrombolysis), or by removing it mechanically (thrombectomy).",
+            "price": 120
+          },
+          {
+            "title": "Hemorrhagic stroke",
+            "description": "People with intracerebral hemorrhage require supportive care, including blood pressure control if required. People are monitored for changes in the level of consciousness, and their blood sugar and oxygenation are kept at optimum levels.",
+            "price": 123
+          },
+          {
+            "title": "Rehabilation",
+            "description": "Stroke rehabilitation is the process by which those with disabling strokes undergo treatment to help them return to normal life as much as possible by regaining and relearning the skills of everyday living. It also aims to help the survivor understand and adapt to difficulties, prevent secondary complications and educate family members to play a supporting role.",
+            "price": 230
+          }
+        ]
+      },
+      {
+        "id": "32",
+        "title": "Williams Hospital",
+        "description": "General Williams Masonic Poly Clinic & Laboratory in Janpath is a part of the integrated network of pathology labs. This venture embarked on its journey with a longstanding commitment and a vision to make a wide range of specialized testing services available to the common man. In the sector, this centre has been consistent towards its commitment to excellence and innovation in whatever they do.",
+        "price": 2000.00,
+        "recommend": false,
+        "options": [
+          {
+            "title": "Stroke Unit",
+            "description": "Ideally, people who have had a stroke are admitted to a stroke unit, a ward or dedicated area in a hospital staffed by nurses and therapists with experience in stroke treatment. It has been shown that people admitted to a stroke unit have a higher chance of surviving than those admitted elsewhere in hospital",
+            "price": 2250
+          },
+          {
+            "title": "Brain ischemia stroke",
+            "description": "Aspirin reduces the overall risk of recurrence by 13% with greater benefit early on. Definitive therapy within the first few hours is aimed at removing the blockage by breaking the clot down (thrombolysis), or by removing it mechanically (thrombectomy).",
+            "price": 475
+          },
+          {
+            "title": "Hemorrhagic stroke",
+            "description": "People with intracerebral hemorrhage require supportive care, including blood pressure control if required. People are monitored for changes in the level of consciousness, and their blood sugar and oxygenation are kept at optimum levels.",
+            "price": 234
+          },
+          {
+            "title": "Rehabilation",
+            "description": "Stroke rehabilitation is the process by which those with disabling strokes undergo treatment to help them return to normal life as much as possible by regaining and relearning the skills of everyday living. It also aims to help the survivor understand and adapt to difficulties, prevent secondary complications and educate family members to play a supporting role.",
+            "price": 432
+          }
+        ]
+      },
+      {
+        "id": "33",
+        "title": "Anderson Hospital",
+        "description": "Anderson Hospital has been serving the communities of Madison County for 40 years, and continues its commitment to providing residents with the highest-quality of advanced medical care. Our 154-bed inpatient and outpatient acute care facility offers patients cutting-edge medical diagnostics that are not often found in a local community setting",
+        "price": 1522.00,
+        "recommend": false,
+        "options": [
+          {
+            "title": "Stroke Unit",
+            "description": "Ideally, people who have had a stroke are admitted to a stroke unit, a ward or dedicated area in a hospital staffed by nurses and therapists with experience in stroke treatment. It has been shown that people admitted to a stroke unit have a higher chance of surviving than those admitted elsewhere in hospital",
+            "price": 2300
+          },
+          {
+            "title": "Brain ischemia stroke",
+            "description": "Aspirin reduces the overall risk of recurrence by 13% with greater benefit early on. Definitive therapy within the first few hours is aimed at removing the blockage by breaking the clot down (thrombolysis), or by removing it mechanically (thrombectomy).",
+            "price": 1200
+          },
+          {
+            "title": "Hemorrhagic stroke",
+            "description": "People with intracerebral hemorrhage require supportive care, including blood pressure control if required. People are monitored for changes in the level of consciousness, and their blood sugar and oxygenation are kept at optimum levels.",
+            "price": 2330
+          },
+          {
+            "title": "Rehabilation",
+            "description": "Stroke rehabilitation is the process by which those with disabling strokes undergo treatment to help them return to normal life as much as possible by regaining and relearning the skills of everyday living. It also aims to help the survivor understand and adapt to difficulties, prevent secondary complications and educate family members to play a supporting role.",
+            "price": 1230
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Fertility Treatment",
+    "short_description": "Fertility treatments often include medications that help with hormones and ovulation, sometimes combined with minor surgical procedures.",
+    "long_description": "Fertility treatments often include medications that help with hormones and ovulation, sometimes combined with minor surgical procedures. Assisted Reproductive Technology (ART) describes several kinds of procedures that can help you have a baby. ART includes procedures that make it easier for sperm to fertilize an egg, and help the egg implant in your uterine lining.",
+    "symptoms": [
+      {
+        "id": "411",
+        "symptom": "Symptoms of hormonal fluctuations"
+      },
+      {
+        "id": "412",
+        "symptom": "Irregural periods"
+      },
+      {
+        "id": "413",
+        "symptom": "Changes in sexual desire"
+      }
+    ],
+    "solutions": [
+      {
+        "id": "414",
+        "solution": "ICSI"
+      },
+      {
+        "id": "415",
+        "solution": "IVF"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "41",
+        "title": "Johnson Hospital",
+        "description": "We are a tertiary-care, referral and teaching hospital that provides ethical and professional clinical care and treatment across all specialities ably supported by diagnostics services that includes laboratory-based, imaging and interventional facilities that remains affordable and accessible.",
+        "price": 200.00,
+        "recommend": true,
+        "options": [
+          {
+            "title": "ICSI",
+            "description": "Intracytoplasmic sperm injection (ICSI) is beneficial in the case of male factor infertility where sperm counts are very low or failed fertilization occurred with previous IVF attempt(s)",
+            "price": 150
+          },
+          {
+            "title": "IVF",
+            "description": "In vitro fertilization is the technique of letting fertilization of the male and female gametes (sperm and egg) occur outside the female body.",
+            "price": 120
+          },
+          {
+            "title": "Fertility medication",
+            "description": "Most fertility medications are agents that stimulate the development of follicles in the ovary. Examples are gonadotropins and gonadotropin releasing hormone.",
+            "price": 130
+          }
+        ]
+      },
+      {
+        "id": "42",
+        "title": "Williams Hospital",
+        "description": "General Williams Masonic Poly Clinic & Laboratory in Janpath is a part of the integrated network of pathology labs. This venture embarked on its journey with a longstanding commitment and a vision to make a wide range of specialized testing services available to the common man. In the sector, this centre has been consistent towards its commitment to excellence and innovation in whatever they do.",
+        "price": 200.00,
+        "recommend": false,
+        "options": [
+          {
+            "title": "ICSI",
+            "price": 150
+          },
+          {
+            "title": "Fertility medication",
+            "price": 120
+          },
+          {
+            "title": "Option3",
+            "price": 130
+          }
+        ]
+      },
+      {
+        "id": "43",
+        "title": "Anderson Hospital",
+        "description": "Anderson Hospital has been serving the communities of Madison County for 40 years, and continues its commitment to providing residents with the highest-quality of advanced medical care. Our 154-bed inpatient and outpatient acute care facility offers patients cutting-edge medical diagnostics that are not often found in a local community setting",
+        "price": 200.00,
+        "recommend": false,
+        "options": [
+          {
+            "title": "Fertility medication",
+            "price": 150
+          },
+          {
+            "title": "IVF",
+            "price": 100
+          },
+          {
+            "title": "Option3",
+            "price": 130
+          }
+        ]
+      }
+    ]
+  }
+]

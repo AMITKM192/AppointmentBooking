@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Appointment Booking</string>
+    <string name="welcome_text">We Welcome you to best Health Services of Unites States with all world class best services. \n
+                                 We provide following services in our center.</string>
+    <string name="about_institution">Our hospital best-known type of hospital is the general hospital,
+        which typically has an emergency department to treat urgent health problems ranging from fire and accident victims to a heart attack.</string>
+    <string name="title_activity_confirmation_page">ConfirmationPage</string>
+    <string name="confirm">Appointment Confirmed</string>
+    <string name="thank_you">Our Executive will contact you soon for best services. \n\n Thank you.</string>
+    <string name="symtoms">Symptoms</string>
+    <string name="book_now">Make Booking </string>
+    <string name="solution">Solution</string>
+    <string name="select_applicable">Select Symptoms</string>
+    <string name="done">Done</string>
+    <string name="solutions">Solutions we provide for you</string>
+    <string name="final_page_msg">You have been given a world class institution. Following are the details.</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="appointment_date">Appointment Date</string>
+    <string name="service">Service</string>
+    <string name="share">Share</string>
+    <string name="add_details">"Add Details : "</string>
+    <string name="select_date">Select date</string>
+    <string name="select_location">Select location</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="age">Age</string>
+    <string name="gender">Select gender</string>
+    <string name="email">Email</string>
+    <string name="cancel">Cancel</string>
+    <string name="proceed_to_pay">Proceed to Pay</string>
+    <string name="select_additional_service">Select Additional Services</string>
+    <string name="proceed">Proceed</string>
+    <string name="content_not_available">Content not Available</string>
+    <string name="total_amount">"Total Amount: "</string>
+</resources>
